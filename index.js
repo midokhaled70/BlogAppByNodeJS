@@ -169,6 +169,22 @@ return res.status(200).json({message:"Done",user:data[0].u_id})
 
 })
 })
+
+
+
+
+app.get("/blog",(req,res,next)=>{
+  DBConnection.execute(`select * from blogs`,
+    (err,data)=>{
+      if(err){
+        return res.status(500).json({message:"fail to excute this query",err})
+      }
+      return res.status(200).json({message:"Done",data})
+    }
+  )
+})
+
+
 app.listen(PORT,()=>{
     console.log(`server is running on port ${PORT}`)
 })
