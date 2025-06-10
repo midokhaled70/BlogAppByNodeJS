@@ -141,15 +141,8 @@ Basic HTML frontend included in the project (Tailwind CSS styled) allows:
 
 For questions or contributions, feel free to open an issue or contact:
 
-* GitHub: [@your-username](https://github.com/your-username)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: [@midokhaled70](https://github.com/midokhaled70)
 
 ---
 
-## 📃 License
 
-This project is licensed under the MIT License.
-
----
-
-Let me know if you’d like me to turn this into a real GitHub repo structure or help you write a `.env` version for secure DB handling.
