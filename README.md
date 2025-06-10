@@ -1,6 +1,3 @@
-Here is a well-structured and professional `README.md` file for your **Blog App** project:
-
----
 
 # 📝 Blog App Backend with MySQL & Express
 
