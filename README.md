@@ -140,7 +140,7 @@ Basic HTML frontend included in the project (Tailwind CSS styled) allows:
 ## 📬 Contact
 
 For questions or contributions, feel free to open an issue or contact:
-
+--phone:**01030480083**
 * GitHub: [@midokhaled70](https://github.com/midokhaled70)
 
 ---
