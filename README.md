@@ -136,7 +136,7 @@ Basic HTML frontend included in the project (Tailwind CSS styled) allows:
 * Use environment variables (e.g., with `dotenv`) for DB credentials in production.
 
 ---
-
+## Author
 ## 📬 Contact
 
 For questions or contributions, feel free to open an issue or contact:
