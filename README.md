@@ -137,7 +137,7 @@ Basic HTML frontend included in the project (Tailwind CSS styled) allows:
 
 ---
 ## Author
-** Ahmed Khaled
+** Mido Khaled
 ## 📬 Contact
 
 For questions or contributions, feel free to open an issue or contact:
